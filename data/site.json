@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.amazon.com",
+  "credentials": {
+    "email": "sam@gmail.com",
+    "password": "123"
+  },
+  "expectedErrorMessage": "There was a problem"
+}
